@@ -1,0 +1,12 @@
+[package]
+name = "econet_tray_kernels"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Phoenix-first tray materials kernels and admissibility gates"
+repository = "https://github.com/Doctor0Evil/EcoNet"
+keywords = ["econet", "phoenix", "biodegradable", "risk-kernels"]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+thiserror = "1"
