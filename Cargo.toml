@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/econet_tray_kernels",
+    "crates/econet_materials_optimizer",
+]
+
+resolver = "2"
